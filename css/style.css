@@ -252,7 +252,7 @@ a.btn_map{
 	font-family: inherit;
 	font-size: inherit;
 	color:#fff;
-	background: #d6b50d;
+	background: #0dd61e;
 	cursor: pointer;
 	padding: 12px 20px;
 	display: inline-block;
@@ -270,7 +270,7 @@ a.btn_map{
 	text-align:center;
 }
 a.btn_map:hover{
-	background:#333;
+	background:#d6b50d;
 }
 
 a.btn_full, .btn_full{
