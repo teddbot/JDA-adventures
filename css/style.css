@@ -383,13 +383,13 @@ header.sticky #logo .logo_sticky{ display:block; }
 	padding:0;
 }
 #logo_home h1 a, header.sticky #logo_home h1 a, header#plain #logo_home h1 a, header#colored #logo_home h1 a{
-	width:300px;
-	height:120px;
+	width:225px;
+	height:173px;
 	display:block;
 	background-image:url(../img/logo.png);
 	background-repeat:no-repeat;
 	background-position:left top;
-	background-size: 300px 120px;
+	background-size: 225px 173px;
 	text-indent:-9999px;
 }
 header.sticky #logo_home h1{
@@ -411,15 +411,15 @@ only screen and (-webkit-min-device-pixel-ratio: 2),
 only screen and (min-device-pixel-ratio: 2) {
 #logo_home h1 a, header#colored #logo_home h1 a{
     background-image: url(../img/logo_2x.png);
-	background-size: 300px 120px;
+	background-size: 432px 253px;
 }
 header.sticky #logo_home h1 a, header#plain #logo_home h1 a{
     background-image: url(../img/logo_sticky_2x.png);
-	background-size: 300px 120px;
+	background-size: 432px 253px;
 }
 header.sticky#colored #logo_home h1 a{
     background-image: url(../img/logo_sticky_colored_2x.png);
-	background-size: 300px 120px;
+	background-size: 432px 253px;
 }
 }
 
@@ -7105,8 +7105,8 @@ only screen and (min-device-pixel-ratio: 2) and (max-width: 991px) {
 	header.sticky #logo_home h1 a,
 	header#plain #logo_home h1 a,
 	header#colored #logo_home h1 a {
-		width: 300px;
-		height: 120px;
+		width: 225px;
+		height: 173px;
 		background-size: auto 60px;
 	}
 	
